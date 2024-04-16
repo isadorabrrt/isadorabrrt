@@ -14,8 +14,6 @@ Próximos Passos
 
 Estou sempre buscando novas oportunidades de aprendizado e crescimento. Meus próximos passos incluem a exploração de frameworks web populares, como React e Angular, para expandir meu conjunto de habilidades no desenvolvimento front-end, além de mergulhar mais fundo no desenvolvimento de aplicativos móveis.
 
-Conecte-se Comigo
-
 Estou ansioso para me conectar com outros desenvolvedores, compartilhar conhecimentos e colaborar em projetos interessantes. Não hesite em entrar em contato comigo aqui no GitHub ou em outras plataformas de redes sociais.
 
 Obrigado por explorar meu perfil! Mal posso esperar para compartilhar mais atualizações e projetos emocionantes com vocês.
